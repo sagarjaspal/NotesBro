@@ -16,3 +16,5 @@ just by copy-pasting the link to first page of e-notes
 <p><b>Tested on</b>:
 
 - Windows 10
+
+<p><b>Python version:</b> 3.6.5
